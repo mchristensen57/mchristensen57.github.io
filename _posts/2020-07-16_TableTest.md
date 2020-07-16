@@ -7,8 +7,8 @@ tags:
 ---
 This is a test of the schedule for the week in a table.
 
-| Name               | rot.   | cont clinic     | Mon am | Mon pm | Tue am | Tue pm | Wed am | Wed pm | Thur am | Thur pm | Fri am | Fri pm |
-| ------------------ | ------ | --------------- | ---- | --------- | ---- | ---- | ----- | -------- | ---- | --- | ---- | ---- |
+| Name               | rot.   | cont clinic     | Mon am     | Mon pm    | Tue am    | Tue pm    | Wed am    | Wed pm    | Thur am   | Thur pm   | Fri am    | Fri pm    |
+| ------------------ | ------ | --------------- | ---------  | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | Birrer, Nikki      | +1 IMC | IMC Tu-We       | CONT | CONT      | CONT | CONT | CONT  | CONT     | CONT | edu | CONT | CONT |
 | O'Sullivan, Maddie | +1 Mad | Madsen Mo-Th/Fr | CONT | CONT      |      |      | 59/60 | Cali 107 | CONT | edu | CONT |      |
 | Battiola, Tess     | +1 SH  | Sugarhouse We   | CONT | CPRS 2:00 | CONT |      | CONT  |          | CONT | edu |      |      |
