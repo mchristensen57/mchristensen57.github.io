@@ -16,4 +16,4 @@ This is a test of the schedule for the week in a table.
 
 
 and we'll try inserting an image of the schedule made in excel. 
-![alt text](/images/ACVA 7-13-20 final_updates.jpg)
+![alt text](https://github.com/mchristensen57/mchristensen57.github.io/blob/master/images/ACVA%207-13-20%20final_updates.jpg)
