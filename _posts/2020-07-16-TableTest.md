@@ -13,3 +13,7 @@ This is a test of the schedule for the week in a table.
 | O'Sullivan, Maddie | +1 Mad | Madsen Mo-Th/Fr | CONT | CONT      |      |      | 59/60 | Cali 107 | CONT | edu | CONT |      |
 | Battiola, Tess     | +1 SH  | Sugarhouse We   | CONT | CPRS 2:00 | CONT |      | CONT  |          | CONT | edu |      |      |
 | Almajed, Jawad     | +1 VA  | VAMC n/a        | out  | out       | out  | out  | out   | out      | out  | out | out  | out  |
+
+
+and we'll try inserting an image of the schedule made in excel. 
+![alt text](/images/ACVA 7-13-20 final_updates.jpg)
