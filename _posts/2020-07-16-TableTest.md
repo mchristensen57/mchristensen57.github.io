@@ -1,7 +1,7 @@
 ---
 title: 'Table Test 1'
 date: 2020-07-20
-permalink:/posts/2020/07/Table-test-1
+permalink: /posts/2020/07/Table-test-1
 tags:
   - ACVA schedule
 ---
