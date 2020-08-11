@@ -13,7 +13,8 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: https://github.com/mchristensen57/mchristensen57.github.io/blob/master/files/mchristensen_cv_2020_08_07.pdf
     
  # - title: "Guide"
  #  url: /markdown/
