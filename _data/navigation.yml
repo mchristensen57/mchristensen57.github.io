@@ -14,7 +14,8 @@ main:
     
   - title: "CV"
     #url: /cv/
-    url: https://github.com/mchristensen57/mchristensen57.github.io/blob/master/files/mchristensen_cv_2020_08_07.pdf
+    #url: https://github.com/mchristensen57/mchristensen57.github.io/blob/master/files/mchristensen_cv_2020_08_07.pdf #view
+    url: https://github.com/mchristensen57/mchristensen57.github.io/raw/master/files/mchristensen_cv_2020_08_07.pdf #direct download
     
  # - title: "Guide"
  #  url: /markdown/
